@@ -5,4 +5,4 @@
 </p>
 
 
-> An online tool to build, test, and share Vale rules.
+> An online tool to build, test, and share [Vale](https://github.com/errata-ai/vale) rules.
